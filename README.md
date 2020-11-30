@@ -1,5 +1,8 @@
+# Analysis of US Accidents(2016-2020)
+
+
 ## DataSet
-https://www.kaggle.com/sobhanmoosavi/us-accidents
+This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to June 2020, using two APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 3.5 million accident records in this dataset
 
 ## EDA and Knn.ipynb
 This file contains the code for Exploratory Data Analytics and KNN model
